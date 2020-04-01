@@ -43,7 +43,7 @@
   "module": "lib/es2015/index.js",
   "typings": "lib/es2015/index.d.ts",
   "devDependencies": {
-    "@motorcycle/tslint": "^1.2.0",
+    "@motorcycle/tslint": "^3.1.0",
     "@types/mocha": "^2.2.33",
     "@types/node": "^6.0.51",
     "commitizen": "^2.8.6",
